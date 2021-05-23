@@ -7,6 +7,7 @@ namespace proyecto_1
         static void Main(string[] args)
         {
             Console.WriteLine("prueba git");
+            Console.WriteLine("tercer commit");
         }
     }
 }
